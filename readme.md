@@ -1,5 +1,6 @@
 # Nome do Projeto
 
+Readme submetido apenas para testes utilizando o GitKraken.
 Uma descrição curta e clara do seu projeto. Explique o que ele faz e para que serve.
 
 ## Funcionalidades
